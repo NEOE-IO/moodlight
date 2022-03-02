@@ -1,6 +1,5 @@
 # About
 
-Add some information about your project here.
 IoT Moodlight. Smarthome-Anbindung via ESPHome / MQTT.
 
 # Installation
