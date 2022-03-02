@@ -52,6 +52,7 @@ captive_portal:
 improv_serial:
 
 
+# Comment
 light:
   - platform: neopixelbus
     type: GRB
