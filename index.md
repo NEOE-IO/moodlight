@@ -1,7 +1,6 @@
 # Über
 
-In diesem Bausatz geht es einfach nur darum, einen 8-Bit RGB LED-Ring anzusteuern.
-Weitere Informationen siehe: https://www.neoe.io/1009
+In diesem Bausatz geht es einfach nur darum, einen 8-Bit RGB LED-Ring anzusteuern. Weitere Informationen siehe: <a href="https://www.neoe.io/1009">www.neoe.io/1009</a>
 
 # Installation
 
