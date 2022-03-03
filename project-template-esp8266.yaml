@@ -60,4 +60,4 @@ light:
     pin: D4
     num_leds: 8
     name: "Moodlight"
-
+    name_add_mac_suffix: true
