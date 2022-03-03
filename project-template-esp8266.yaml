@@ -59,4 +59,4 @@ light:
     variant: WS2811
     pin: D4
     num_leds: 8
-    name: esphome.name
+    name: "Moodlight"
