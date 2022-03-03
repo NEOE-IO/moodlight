@@ -1,6 +1,6 @@
 # Über
 
-IoT Moodlight. Smarthome-Anbindung via ESPHome / MQTT.
+In diesem Bausatz geht es einfach nur darum, einen 8-Bit RGB LED-Ring anzusteuern.
 
 # Installation
 
