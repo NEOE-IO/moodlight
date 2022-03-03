@@ -1,10 +1,10 @@
-# About
+# Über
 
 IoT Moodlight. Smarthome-Anbindung via ESPHome / MQTT.
 
 # Installation
 
-You can use the button below to install the pre-built firmware directly to your device via USB from the browser.
+Über die folgende Schaltfläche kann die bereits vorbereitete Firmware einfach über USB aus dem Browser installiert werden.
 
 <esp-web-install-button manifest="./manifest.json"></esp-web-install-button>
 
